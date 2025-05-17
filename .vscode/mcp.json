@@ -51,15 +51,6 @@
                 "@upstash/context7-mcp@latest"
             ]
         },
-        "XcodeBuildMCP": {
-            "command": "mise",
-            "args": [
-                "x",
-                "npm:xcodebuildmcp@1.2.4",
-                "--",
-                "xcodebuildmcp"
-            ]
-        },
         "notify": {
             "command": "npx",
             "args": [
